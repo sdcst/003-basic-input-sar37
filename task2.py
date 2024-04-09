@@ -11,3 +11,9 @@
 # volume
 #
 # test output radius of 3 should give volume of 113.09733552923254
+
+pi = 3.14
+r = 3
+volume = 4/3*pi*r**3
+
+print("the volume is{volume}")

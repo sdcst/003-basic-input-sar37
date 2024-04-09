@@ -16,3 +16,11 @@
 # r = 3
 # h = 5
 # sa = 83.2297607912
+
+r = 3
+s = 5
+pi = 3.14
+
+sa = pi*r*s + pi*r**2
+
+print(f" the surface area of the cone is {sa}")
